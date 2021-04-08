@@ -21,3 +21,7 @@ A company has an AWS-hosted website located behind an Application Load Balancer.
 
 The company wants to safeguard the website from SQL injection or cross-site scripting Which AWS service should the company use?
 
+### NO.145 
+
+Which AWS service or feature can be used to prevent SQL injection attacks?
+
