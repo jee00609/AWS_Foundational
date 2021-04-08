@@ -16,3 +16,6 @@ Which of the following acts as an instance-level firewall to control inbound and
 What function do security groups serve related to Amazon Elastic Compute Cloud (Amazon EC2) instance security?
 
 -> Act as a virtual firewall for the Amazon EC2 instance. (Amazon EC2 인스턴스에 대한 가상 방화벽 역할을 합니다.)
+
+### NO.149 
+which of the following acts as a virtual firewall at the amzon ec2 instance level to control traffic for one or more instance?
