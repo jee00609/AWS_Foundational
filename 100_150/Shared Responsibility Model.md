@@ -45,6 +45,12 @@ According to the AWS shared responsibility model who is responsible for configur
 
 -> It is shared between AWS and the customer
 
+### NO.139 
+Which activity is a customer responsibility in the AWS Cloud according to the AWS shared responsibility model?
+
+AWS 책임 분담 모델에 따라 AWS Cloud에서 고객의 책임은 어떤 활동입니까?
+
+-> Ensuring Amazon EBS volumes are backed up (Amazon EBS 볼륨 백업 보장)
 
 
 
