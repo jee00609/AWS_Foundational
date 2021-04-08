@@ -14,3 +14,6 @@ AWS Organizations의 통합 결제 기능을 사용하여 여러 AWS 계정 또�
 A company has multiple AWS accounts and wants to simplify and consolidate its billing process.
 
 Which AWS service will achieve this?
+
+### NO.135 
+Which AWS service allows for effective cost management of multiple AWS accounts?
