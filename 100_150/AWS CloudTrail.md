@@ -20,10 +20,12 @@ CloudTrail은 요청한 사람, 사용된 서비스, 수행된 작업, 작업의
 
 [AWS의 Cloudwatch와 CloudTrail의 차이](https://www.enqdeq.net/282)
 
-   * CloudTrail : "AWS에서 누가 무엇을합니까?"서비스 또는 리소스에 대한 API 호출.
+   * CloudTrail : "AWS에서 **누가** 무엇을합니까?"
+      * 서비스 또는 리소스에 대한 API 호출.
       * Who did what on AWS?
 
-   * CloudWatch : "AWS에서 무슨 일이 일어나고 있나?"특정 서비스 또는 응용 프로그램의 모든 이벤트를 기록합니다.
+   * CloudWatch : "AWS에서 **무슨 일이** 일어나고 있나?" 
+      * 특정 서비스 또는 응용 프로그램의 모든 이벤트를 기록합니다.
       * What is happening on AWS?
 
 ## 관련 문제
