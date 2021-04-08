@@ -52,6 +52,13 @@ AWS 책임 분담 모델에 따라 AWS Cloud에서 고객의 책임은 어떤 �
 
 -> Ensuring Amazon EBS volumes are backed up (Amazon EBS 볼륨 백업 보장)
 
+### NO.142 
+Under the AWS shared responsibility model, customer responsibilities include which one of the following?
+
+AWS 책임 분담 모델에 따라 고객 책임은 무엇인가?
+
+-> Configuring the operating system, network, and firewall. (운영 체제, 네트워크 및 방화벽 구성)
+
 
 
 
