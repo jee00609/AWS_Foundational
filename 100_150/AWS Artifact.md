@@ -11,3 +11,9 @@ AWS Artifact을(를) 사용하여 비즈니스 관련자 부록(BAA)과 같은 A
 ### NO.120 
 
 Which of the following services provides on-demand access to AWS compliance reports?
+
+### NO.144 
+
+Where are AWS compliance documents, such as an SOC 1 report, located?
+
+[AWS SOC 는 AWS Artifact 를 통해 AWS 고객에게 제공합니다.](https://aws.amazon.com/ko/compliance/soc-faqs/)
