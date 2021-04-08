@@ -6,6 +6,8 @@ AWS WAF에서는 SQL 주입 또는 사이트 간 스크립팅과 같은 일반�
 
 [DDoS 공격을 나타내는 것으로 확인되면 자체 AWS WAF 규칙을 생성하여 공격을 완화할 수 있습니다.](https://docs.aws.amazon.com/ko_kr/waf/latest/developerguide/ddos-responding.html)
 
+[AWS WAF를 통해 **Application Load Balancer 기반 응용 프로그램 보호 기능**을 제공](https://aws.amazon.com/ko/blogs/korea/aws-web-application-firewall-waf-for-application-load-balancers/)
+
 ## 관련 문제
 
 ### NO.127 
@@ -13,4 +15,9 @@ AWS WAF에서는 SQL 주입 또는 사이트 간 스크립팅과 같은 일반�
 Which of the following services have Distributed Denial of Service (DDoS) mitigation features? (Select TWO )
 
 -> AWS WAF, Amazon CloudFront
+
+### NO.128 
+A company has an AWS-hosted website located behind an Application Load Balancer. 
+
+The company wants to safeguard the website from SQL injection or cross-site scripting Which AWS service should the company use?
 
