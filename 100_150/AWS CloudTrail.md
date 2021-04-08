@@ -16,6 +16,16 @@ CloudTrail은 요청한 사람, 사용된 서비스, 수행된 작업, 작업의
 
 리소스에 대한 변경 사항을 추적하거나, 사용자 활동에 대한 간단한 질문에 답변하거나, 규정 준수를 입증하거나, 문제를 해결하거나, 보안 분석을 수행하려는 고객은 CloudTrail을 사용해야 합니다.
 
+## 참고
+
+[AWS의 Cloudwatch와 CloudTrail의 차이](https://www.enqdeq.net/282)
+
+   * CloudTrail : "AWS에서 누가 무엇을합니까?"서비스 또는 리소스에 대한 API 호출.
+      * Who did what on AWS?
+
+   * CloudWatch : "AWS에서 무슨 일이 일어나고 있나?"특정 서비스 또는 응용 프로그램의 모든 이벤트를 기록합니다.
+      * What is happening on AWS?
+
 ## 관련 문제
 
 ### NO.111 
