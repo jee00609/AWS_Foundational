@@ -14,3 +14,11 @@ AWS는 많은 서비스를 제공하며 이러한 서비스는 글로벌, 리전
    * Route53
    * WAF
    * CloudFront
+
+## 관련 문제
+
+### NO.121 
+
+Which AWS services are defined as global instead of regional? (Select TWO.)
+
+-> Amazon Route 53 , Amazon CloudFront
