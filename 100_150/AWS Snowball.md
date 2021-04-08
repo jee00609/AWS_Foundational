@@ -10,4 +10,6 @@ Snowball Edge는 로컬 환경과 AWS 클라우드 간에 데이터를 전송하
 
 ## 관련 문제들
 
-### NO.101 Which AWS storage service is designed to transfer petabytes of data in and out of thecloud?
+### NO.101 
+
+Which AWS storage service is designed to transfer petabytes of data in and out of thecloud?
