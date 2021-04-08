@@ -51,3 +51,11 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
 Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate?
 
 -> Spot Instances
+
+### NO.118 
+
+Which of the following AWS Cloud services can be used to run a customer-managed relational database?
+
+(고객 관리 형 관계형 데이터베이스를 실행하는데 사용할수 있는 AWS 클라우드 서비스)
+
+-> Amazon EC2
