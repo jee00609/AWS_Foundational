@@ -8,7 +8,7 @@
 
 ### NO.108 
 
-under the AWS shared responsibility model the customer manages which of the following?
+under the AWS shared responsibility model the customer manages which of the following? (AWS 책임 분담 모델에 따라 고객이 다음 중 어떤 것을 관리합니까?)
 
    * Security group and ACL configuration (보안 그룹 및 ACL 구성)
    * Patch management of an Amazon EC2 instance operating system (Amazon EC2 인스턴스 운영 체제의 패치 관리)
