@@ -24,3 +24,15 @@ under the AWS shared responsibility model the customer manages which of the foll
 Under the AWS shared responsibility model, which task is the customer's responsibility when managing AWS Lambda functions? (AWS 공동 책임 모델에서 AWS Lambda 기능을 관리 할 때 고객의 책임은 무엇입니까?)
 
 **Creating versions of Lambda functions (Lambda 함수 버전 생성)** or **Scaling Lambda resources according to demand (수요에 따라 Lambda 리소스 확장)** 둘 중 하나 인듯하다.
+
+### NO.113 
+
+Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+
+(다음 중 AWS에서 전적으로 관리하는 책임 분담 모델의 구성 요소는 무엇입니까?)
+
+   * Auditing physical data center assets (물리적 데이터 센터 자산 감사)
+      * Amazon is responsible for auditing physical data center assets and resources since it is the property of Amazon Inc. Customers have no access to physical sites, hence they are not responsible for maintaining physical data center assets.
+      *  Amazon은 Amazon Inc.의 자산이므로 물리적 데이터 센터 자산 및 리소스를 감사 할 책임이 있습니다. 고객은 물리적 사이트에 액세스 할 수 없으므로 물리적 데이터 센터 자산을 유지 관리 할 책임이 없습니다.
+
+
