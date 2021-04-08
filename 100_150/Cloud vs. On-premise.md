@@ -40,4 +40,22 @@ What combination of actions will enable the company to accomplish this goals? (S
       * (AWS Direct Connect를 사용하여 회사의 온 프레미스 데이터 센터를 AWS에 연결합니다.)
       * [VPC 및 VPC 피어링은 단일 지역에 로컬입니다. 지역 간 트래픽은 인터넷, VPN 또는 Direct Connect를 사용하여 연결할 수 있습니다.](https://aws.amazon.com/ko/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/)
 
+### NO.140 
+A company is migrating from on-premises data centers to the AWS cloud and is looking for hands-on help with the project.
+
+How can the company get this support? (Select TOO.)
+
+회사는 온 프레미스 데이터 센터에서 AWS 클라우드로 마이그레이션하고 있으며 프로젝트에 대한 실질적인 도움을 찾고 있습니다.
+
+회사는 어떻게 이 지원을 받을 수 있습니까?
+
+[AWS Landing Zone](https://aws.amazon.com/ko/solutions/implementations/aws-landing-zone/)
+
+[AWS Professional Services](https://aws.amazon.com/ko/professional-services/?nc1=h_ls)
+
+   * Use AWS professional services to provide and to set up and AWS Landing Zone in the company's AWS account
+      * AWS 전문 서비스를 사용하여 회사의 AWS 계정에서 AWS 랜딩 존을 제공 및 설정
+
+   * Select a partner from the AWS Partner Network (APN) to assist with the migration.
+      * AWS 파트너 네트워크 (APN)에서 파트너를 선택하여 마이그레이션을 지원합니다.
 
