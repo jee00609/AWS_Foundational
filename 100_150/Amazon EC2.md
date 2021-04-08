@@ -48,4 +48,6 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
 
 ### NO.116 
 
-Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate? -> Spot Instances
+Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate?
+
+-> Spot Instances
