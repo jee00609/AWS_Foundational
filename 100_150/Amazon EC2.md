@@ -43,3 +43,8 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
    * **전용 인스턴스** - 단일 테넌트 하드웨어에서 실행되는 인스턴스 비용을 시간 단위로 지불합니다.
 
    * **용량 예약** – 원하는 기간 동안 특정 가용 영역의 EC2 인스턴스에 대해 용량을 예약합니다.
+
+## 관련 문제
+
+### NO.116 
+Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate? -> Spot Instances
