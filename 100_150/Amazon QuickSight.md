@@ -13,3 +13,11 @@ Amazon QuickSight 은 엔터프라이즈급 보안, 글로벌 가용성 및 기�
    * 다양한 데이터를 하나의 분석으로 결합합니다.
    * 분석을 대시보드로 게시 및 공유합니다.
    * 대시보드 에서 사용 가능한 제어 기능.
+
+## 관련 문제
+
+### NO.124 
+
+A company is building a business intelligence solution and wants to use dashboards for reporting purposes.
+
+Which AWS service can be used?
