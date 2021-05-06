@@ -4,7 +4,7 @@ Amazon S3는 인터넷상 어디서나 원하는 양의 데이터를 저장하�
 
 Amazon S3는 언제든지 웹상 어디서나 원하는 양의 데이터를 저장하고 검색하는 데 사용할 수 있는 간편한 웹 서비스 인터페이스를 제공합니다.
 
-Amazon S3 기능
+## Amazon S3 기능
 
    * 개체를 저장하고
    * 해당 개체에 실시간으로 액세스하며 
@@ -24,6 +24,21 @@ Amazon S3 기능
       * 재정 목표, 준수 규정 및 기업 비즈니스 정책에 맞게 정책을 사용할 수 있습니다.  
    *  가장 포괄적인 보안 및 규정 준수 기능 세트
       *  PCI-DSS, HIPAA/HITECH, FedRAMP, SEC Rule 17-a-4, EU 데이터 보호 지침, FISMA 외에도 전 세계 거의 모든 기관에서 다양한 인증을 획득  
+
+## [Amazon S3 종류와 그 비용](https://www.pearsonitcertification.com/articles/article.aspx?p=3004582&seqNum=3)
+
+   * **S3 Standard**: <br/>General-purpose online storage with 99.99% availability and 99.999999999% durability (that is, “11 9s”).
+
+   * **S3 Infrequent Access**: <br/>Same performance as S3 Standard but up to 40% cheaper with 99.9% availability SLA and the same “11 9s” durability.
+
+   * **S3 One Zone-Infrequent Access**: <br/>A cheaper data tier in only one availability zone that can deliver an additional 25% savings over S3 Infrequent Access. It has the same durability, with 99.5% availability.
+
+   * **S3 Reduced Redundancy Storage (RRS)**: <br/>Previously this was a cheaper version of S3 providing 99.99% durability and 99.99% availability of objects. <br/>RRS cannot be used in a life cycling policy and is now more expensive than S3 Standard.
+
+   * **S3 Glacier**: <br/>Less than one-fifth the price of S3 Standard, designed for archiving and long-term storage.
+
+   * **S3 Glacier Deep Archive**: <br/>Costs four times less than Glacier and is the cheapest storage solution, at about $1 per terabyte per month. <br/>This solution is intended for very long-term storage.
+
 
 ## 관련 문제
 
