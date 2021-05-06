@@ -30,3 +30,7 @@ Amazon S3 기능
 ### NO.113 
 
 Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+
+### NO.151 
+
+Which service provides a virtually unlimited amount of online highly durable object storage?
