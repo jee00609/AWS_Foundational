@@ -12,3 +12,9 @@ OpsWorks for Puppet Enterprise는 완전 관리형 Puppet 마스터와 애플리
 
 OpsWorks for Puppet Enterprise를 사용하면 Puppet을 통해 **Amazon EC2 인스턴스 또는 온프레미스 디바이스에서 노드의 구성, 배포 및 관리를 자동화**할 수 있습니다.
 
+## 관련 문제
+
+### NO.172 
+Which AWS services can be used as infrastructure automation tools? (Select TWO.)
+
+-> **AWS CloudFormation** & **AWS OpsWorks**
