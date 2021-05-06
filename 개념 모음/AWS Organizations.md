@@ -33,3 +33,9 @@ Which of the following provides the ability to share the cost benefits of Reserv
 Which methods can be used to identify AWS costs by departments? (Choose two.)
 
 A. **[Create separate accounts for each department](https://docs.aws.amazon.com/ko_kr/awsaccountbilling/latest/aboutv2/awsaccountbilling-aboutv2.pdf)** & **[Use tags to associate each instance with a particular department](https://aws.amazon.com/ko/premiumsupport/knowledge-center/tags-billing-cost-center-project/)**
+
+### NO.166 
+A company has multiple AWS accounts within AWS Organizations and wants to apply the Amazon EC2 Reserved instances benefit to a single account only Which action should be taken?
+
+A.  [Purchase the Reserved Instances from master payer account and turn off Reserved Instance sharing.](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/)
+
