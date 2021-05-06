@@ -16,4 +16,7 @@ Which of the following services provides on-demand access to AWS compliance repo
 
 Where are AWS compliance documents, such as an SOC 1 report, located?
 
-[AWS SOC 는 AWS Artifact 를 통해 AWS 고객에게 제공합니다.](https://aws.amazon.com/ko/compliance/soc-faqs/)
+-> [AWS SOC 는 AWS Artifact 를 통해 AWS 고객에게 제공합니다.](https://aws.amazon.com/ko/compliance/soc-faqs/)
+
+### NO.170 
+Which AWS service or feature can be used to allow users access to compliance reports as self-service downloads?
