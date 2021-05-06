@@ -16,3 +16,5 @@ Amazon Virtual Private Cloud(Amazon VPC)를 이용하면 사용자가 정의한 
 
 ### NO.167 
 A company has an AWS environment that consists of a VPC. multiple subnets, and many Amazon EC2 instances in the subnets An engineer wants to restrict inbound traffic to one particular EC2 instance without affecting the other EC2 instances.
+
+A. Network ACLs
