@@ -10,6 +10,12 @@ AWS Organizations의 통합 결제 기능을 사용하여 여러 AWS 계정 또�
 
 AWS 계정간에 [예약 인스턴스의 비용 이점을 공유](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/) 할 수 있는 기능을 제공합니다.
 
+AWS 제품 및 서비스는 소규모 신생 기업에서 대기업에 이르기까지 모든 규모의 회사에서 사용할 수 있도록 설계되었습니다. 
+
+회사 규모가 크거나 성장할 가능성이 있는 경우 회사의 구조를 반영하는 여러 AWS 계정을 설정할 수 있습니다. 
+
+예를 들어 회사 전체의 계정 하나와 각 직원의 계정 하나를 만들거나, 회사 전체의 계정 하나를 만들고 각 직원의 IAM 사용자가 있는 계정을 만들 수 있습니다. 회사 전체의 계정, 회사 내 부서별 또는 팀별 계정, 그리고 각 직원의 계정을 만들 수 있습니다.
+
 ## 관련 문제
 
 ### NO.132 
@@ -22,3 +28,8 @@ Which AWS service allows for effective cost management of multiple AWS accounts?
 
 ### NO.154 
 Which of the following provides the ability to share the cost benefits of Reserved Instances across AWS accounts?
+
+### NO.160 
+Which methods can be used to identify AWS costs by departments? (Choose two.)
+
+A. **[Create separate accounts for each department](https://docs.aws.amazon.com/ko_kr/awsaccountbilling/latest/aboutv2/awsaccountbilling-aboutv2.pdf)** & **[Use tags to associate each instance with a particular department](https://aws.amazon.com/ko/premiumsupport/knowledge-center/tags-billing-cost-center-project/)**
