@@ -18,6 +18,17 @@ AWS Identity and Access Management(IAM)는 **AWS 리소스에 대한 액세스�
    * IAM 역할
    * IAM의 임시 자격 증명
 
+## IAM 사용자 와 [멀티 팩터 인증(MFA)](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_credentials_mfa.html)
+
+MFA는 사용자가 AWS 웹 사이트 또는 서비스에 액세스할 때 사용자의 **정규 로그인 자격 증명 외에도 AWS가 지원되는 MFA 메커니즘의 고유 인증을 제출하라고 요청**함으로써 **보안을 더욱 강화**합니다.
+
+   * 가상 MFA 디바이스
+   * U2F 보안 키
+   * 하드웨어 MFA 디바이스
+   * SMS 문자 메시지 기반 MFA
+
+
+
 ## 관련 문제
 
 ### NO.161 
@@ -27,3 +38,8 @@ A. IAM USER
 
 ### NO.162 
 Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
+
+### NO.175 
+Which of the following can be used a second factor within the AWS Management Console for AWS Multi-Factor Authentication (AWS MFA)?
+
+-> U2F security key token
