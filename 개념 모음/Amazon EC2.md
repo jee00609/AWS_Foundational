@@ -47,6 +47,11 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
 ## [스팟 인스턴스와 온디맨드 인스턴스의 차이점](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/using-spot-instances.html)
 
  스팟 인스턴스는 용량을 더 이상 사용할 수 없거나 스팟 가격이 최고 가격을 초과하거나 스팟 인스턴스에 대한 수요가 증가하는 경우 Amazon EC2 스팟 서비스에서 개별 스팟 인스턴스을 중단할 수 있습니다.
+ 
+## AWS 클라우드에서 인프라 호스팅의 이점
+
+   * [사전 약정이 없습니다.](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-reserved-instances.html)
+   * 사용자는 필요에 따라 리소스를 프로비저닝할 수 있습니다.
 
 ## 관련 문제
 
@@ -68,3 +73,8 @@ Which of the following AWS Cloud services can be used to run a customer-managed 
 Which pricing model will interrupt a running amazon EC2 instance if capacity becomes temporarily unavailable?
 
 -> Spot Instances
+
+### NO.171 
+Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)
+
+-> **There are no upfront commitments.** &  **Users have the ability to provision resources on demand.**
