@@ -1,4 +1,4 @@
-## [AWS IAM](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html) AWS Identity and Access Management
+## [AWS IAM](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/introduction.html) (AWS Identity and Access Management)
 
 AWS Identity and Access Management(IAM)는 **AWS 리소스에 대한 액세스를 안전하게 제어할 수 있는 웹 서비스**입니다.
 
