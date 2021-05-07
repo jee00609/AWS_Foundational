@@ -20,3 +20,8 @@ Where are AWS compliance documents, such as an SOC 1 report, located?
 
 ### NO.170 
 Which AWS service or feature can be used to allow users access to compliance reports as self-service downloads?
+
+### NO.186 
+What can users access from AWS Artifact?
+
+-> AWS security and compliance documents
