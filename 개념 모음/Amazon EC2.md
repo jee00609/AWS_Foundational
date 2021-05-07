@@ -38,8 +38,8 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
       * 시작 및 종료 시간이 자유로운 애플리케이션
       * 컴퓨팅 가격이 매우 저렴해야만 수익이 나는 애플리케이션
       * 대량의 서버 용량 추가로 긴급히 컴퓨팅 파워가 필요한 사용자
-   * **Saving Plans**
-   * **예약 인스턴스**
+   * **예약 인스턴스** (Saving Plans)
+      * Savings Plans를 이용해 시간당 USD로 측정되는 **일관된 사용량을 약정**할 수 있습니다.
       * 수요가 꾸준한 애플리케이션
       * 예약 용량이 필요할 수 있는 애플리케이션
       * 총 컴퓨팅 비용을 절감하기 위해 1년 또는 3년 동안 EC2를 사용하기로 약정할 수 있는 고객
@@ -102,3 +102,8 @@ Which of the following are benefits of hosting infrastructure in the AWS Cloud? 
 Which Amazon EC2 pricing option is best suited for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted?
 
 -> On-Demand Instances
+
+### NO.185 
+A workload on AWS will run for the foreseeable future by using a consistent number of Amazon EC2 instances. What pricing model will minimize cost while ensuring that compute resources remain available?
+
+-> Reserved Instances
