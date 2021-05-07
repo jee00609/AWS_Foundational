@@ -82,6 +82,8 @@ Which scenarios represent the concept of elasticity on AWS? (Choose two.)
 
 -> **Scaling the number of Amazon EC2 instances based on traffic.** & **Resizing Amazon RDS instances as business needs change.**
 
+[참고 자료](https://www.examtopics.com/discussions/amazon/view/17338-exam-aws-certified-cloud-practitioner-topic-1-question-143/)
+
 ### NO.194 
 IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components This is an example of which principle of cloud architecture design?
 
