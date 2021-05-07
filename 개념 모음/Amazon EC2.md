@@ -69,7 +69,7 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
  
 ## AWS 클라우드에서 인프라 호스팅의 이점
 
-   * [사전 약정이 없습니다.](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/ec2-reserved-instances.html)
+   * [사전 약정이 없습니다.](https://aws.amazon.com/ko/about-aws/)
    * 사용자는 필요에 따라 리소스를 프로비저닝할 수 있습니다.
 
 ## 관련 문제
