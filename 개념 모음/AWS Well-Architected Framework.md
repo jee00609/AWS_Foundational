@@ -32,7 +32,7 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
 
 ## AWS Welll-Architected 프레임워크 개념
 
-## 탄력성
+### 탄력성
 
 필요에 따라 리소스를 획득하고 더 이상 필요하지 않을 때 리소스를 해제하는 기능
 
@@ -46,6 +46,16 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
    * 설계 상 탄력적이지 않은 서비스 측면에 대해 AWS Auto Scaling 또는 Application Auto Scaling 을 사용하여 탄력성을 구현 합니다.
    * 탄력성을 위아래로 테스트하여 부하 변동에 대한 요구 사항을 충족하는지 확인합니다.
    * 요구 사항을 충족 할 수있을 때까지 구현 및 테스트를 반복합니다. 골든 Amazon 머신 이미지, 도커 컨테이너 등을 조사하여 시작 속도를 높일 수 있습니다.
+
+### [느슨한 커플링](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+
+IT 구성 요소는 상호 종속성을 줄이도록 설계하여 한 구성 요소의 변경 또는 실패가 다른 구성 요소와 연계되지 않도록 해야 한다는 아키텍처 설계 원칙
+
+애플리케이션 복잡성이 증가함에 따라 IT 시스템의 바람직한 특성은 더 작고 느슨하게 결합 된 구성 요소로 나뉩니다. 
+
+이것은 IT 시스템이 변경 또는 실패와 같은 상호 의존성을 줄이는 방식으로 설계되어야합니다.
+
+**한 구성 요소가 다른 구성 요소에 종속되어서는 안됩니다.**
 
 ## 관련 문제
 
@@ -71,3 +81,8 @@ Which AWS Cloud design principles can help increase reliability? (Select TWO.)
 Which scenarios represent the concept of elasticity on AWS? (Choose two.)
 
 -> **Scaling the number of Amazon EC2 instances based on traffic.** & **Resizing Amazon RDS instances as business needs change.**
+
+### NO.194 
+IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components This is an example of which principle of cloud architecture design?
+
+-> Loose coupling
