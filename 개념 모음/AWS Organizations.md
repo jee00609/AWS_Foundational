@@ -57,7 +57,10 @@ Which methods can be used to identify AWS costs by departments? (Choose two.)
 ### NO.166 
 A company has multiple AWS accounts within AWS Organizations and wants to apply the Amazon EC2 Reserved instances benefit to a single account only Which action should be taken?
 
--> [Purchase the Reserved Instances from master payer account and turn off Reserved Instance sharing.](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/)
+-> [Purchase the Reserved instances in individual linked accounts and turn off Reserved Instance
+sharing from the payer level](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/)
+
+[](https://www.examtopics.com/discussions/amazon/view/22416-exam-aws-certified-cloud-practitioner-topic-1-question-306/)
 
 ### NO.178 
 Service control policies (SCPs) manage permissions for which of the following?
