@@ -28,6 +28,25 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
 
    * AWS 클라우드에서는 논리적으로 격리되어 있지만 원할 때마다 고객의 네트워크와 간편히 연결할 수 있는 가상 네트워크인 Virtual Private Clouds(VPC)
 
+## [Amazon EC2 요금 특징](https://aws.amazon.com/ko/ec2/pricing/?nc1=h_ls)
+
+   * **온디맨드**
+      * 선결제 금액이나 장기 약정 없이 저렴하고 유연하게 Amazon EC2를 사용하기 원하는 사용자
+      * 단기의 갑작스럽거나 예측할 수 없는 워크로드가 있으며, 중단되어서는 안 되는 애플리케이션
+      * Amazon EC2에서 처음으로 개발 또는 시험 중인 애플리케이션
+   * **스팟 인스턴스**
+      * 시작 및 종료 시간이 자유로운 애플리케이션
+      * 컴퓨팅 가격이 매우 저렴해야만 수익이 나는 애플리케이션
+      * 대량의 서버 용량 추가로 긴급히 컴퓨팅 파워가 필요한 사용자
+   * **Saving Plans**
+   * **예약 인스턴스**
+      * 수요가 꾸준한 애플리케이션
+      * 예약 용량이 필요할 수 있는 애플리케이션
+      * 총 컴퓨팅 비용을 절감하기 위해 1년 또는 3년 동안 EC2를 사용하기로 약정할 수 있는 고객
+   * **전용 호스팅**
+
+
+
 ## 인스턴스 구입 옵션
 
    * **온디맨드 인스턴스** - 시작하는 인스턴스에 대한 비용을 초 단위로 지불합니다.
@@ -78,3 +97,8 @@ Which pricing model will interrupt a running amazon EC2 instance if capacity bec
 Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)
 
 -> **There are no upfront commitments.** &  **Users have the ability to provision resources on demand.**
+
+### NO.182
+Which Amazon EC2 pricing option is best suited for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted?
+
+-> On-Demand Instances
