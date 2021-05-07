@@ -34,6 +34,8 @@ Trusted Advisor는 사용자의 AWS 환경을 조사하고 비용 절감, 시스
 
 [AWS Basic Support 및 AWS Developer Support 고객은 6회의 보안 점검(S3 버킷 권한, 보안 그룹 - 특정 포트 무제한, IAM 사용, 루트 계정의 MFA, EBS 퍼블릭 스냅샷, RDS 퍼블릭 스냅샷)과 50회의 서비스 한도 점검에 액세스할 수 있습니다.](https://aws.amazon.com/ko/premiumsupport/technology/trusted-advisor/)
 
+[참고 자료](https://aws.amazon.com/ko/premiumsupport/technology/trusted-advisor/best-practice-checklist/)
+
 ## 내결함성
 
 Auto Scaling, 상태 확인, 다중 AZ 및 백업 기능을 활용하여 AWS 애플리케이션의 가용성과 중복성을 높입니다.
