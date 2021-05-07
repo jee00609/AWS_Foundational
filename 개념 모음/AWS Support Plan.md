@@ -16,6 +16,10 @@
 
 오로지 **엔터프라이즈**만이 **AWS Concierge 지원 팀**을 통해 청구 또는 계정 문의 가능
 
+오로지 **엔터프라이즈**만이 **기술 지원 관리 서비스를** 받을 수 있습니다.<br/>고객의 환경을 적극적으로 모니터링하고, 최적화를 지원하고, 프로그램 및 AWS 전문가에 대한 액세스를 조정하는 **기술 지원 관리자(TAM)를 지정**합니다.
+
+오로지 **엔터프라이즈**만이 **사전 프로그램 및 서비스**에서 **Well-Architected 검토 서비스를 지원**받을 수 있습니다.
+
 ## 관련 문제
 
 ### NO.159 
@@ -27,3 +31,8 @@ Which AWS support plan provides access to architectural and operational reviews 
 If a user has an AWS account with an enterprise level AWS support plan, who is the primary point of contact for billing or account inquiries?
 
 -> AWS Concierge Support team
+
+### NO.200 
+Which of the following are benefits of the AWS business support plan?
+
+-> **Phone, email and chat support 24 hours a day 7 days a week** & **Full set of AWS trusted Advisor best practice checks**
