@@ -1,4 +1,4 @@
-## [AWS Partner Network Technology Partners (APN)](https://aws.amazon.com/ko/partners/)
+## [AWS Partner Network(APN)](https://aws.amazon.com/ko/partners/)
 
 AWS 파트너 네트워크(APN)는 Amazon Web Services를 활용하여 고객을 위한 솔루션과 서비스를 구축하는 파트너로 구성된 글로벌 커뮤니티입니다.
 
