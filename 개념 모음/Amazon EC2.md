@@ -35,7 +35,7 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
       * **단기의 갑작스럽거나 예측할 수 없는 워크로드가 있으며, 중단되어서는 안 되는 애플리케이션**
       * Amazon EC2에서 처음으로 개발 또는 시험 중인 애플리케이션
    * **스팟 인스턴스**
-      * 시작 및 종료 시간이 자유로운 애플리케이션
+      * **시작 및 종료 시간이 자유로운** 애플리케이션
       * 컴퓨팅 가격이 매우 저렴해야만 수익이 나는 애플리케이션
       * 대량의 서버 용량 추가로 긴급히 컴퓨팅 파워가 필요한 사용자
    * **예약 인스턴스** (Saving Plans)
@@ -107,3 +107,8 @@ Which Amazon EC2 pricing option is best suited for applications with short-term,
 A workload on AWS will run for the foreseeable future by using a consistent number of Amazon EC2 instances. What pricing model will minimize cost while ensuring that compute resources remain available?
 
 -> Reserved Instances
+
+### NO.189 
+When is it beneficial for a company to use a Spot Instance?
+
+-> When there is flexibility in when an application needs to run.
