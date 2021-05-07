@@ -7,6 +7,7 @@ AWS Identity and Access Management(IAM)는 **AWS 리소스에 대한 액세스�
  ## AWS IAM 으로 할 수 있는 것
  
    * [특정 사용자에 대한 Amazon Simple Storage Service (Amazon S3) 버킷 액세스를 제한할 수 있다.](https://aws.amazon.com/ko/premiumsupport/knowledge-center/block-s3-traffic-vpc-ip/)
+   * [Amazon S3 버킷의 특정 폴더에 사용자 액세스 권한을 부여하려면 어떻게 해야 합니까?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/s3-folder-user-access/)
  
  ## IAM 자격 증명
 
