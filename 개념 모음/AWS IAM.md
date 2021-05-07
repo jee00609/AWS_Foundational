@@ -34,7 +34,7 @@ MFA는 사용자가 AWS 웹 사이트 또는 서비스에 액세스할 때 사�
 ### NO.161 
 Which of the following Identity and Access Management (IAM) entities is associated with an access key ID and secret access key when using AWS Command Line Interface (AWS CLI)?
 
-A. IAM USER
+-> IAM USER
 
 ### NO.162 
 Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucket access to specific users?
@@ -43,3 +43,8 @@ Which of the following can limit Amazon Simple Storage Service (Amazon S3) bucke
 Which of the following can be used a second factor within the AWS Management Console for AWS Multi-Factor Authentication (AWS MFA)?
 
 -> U2F security key token
+
+### NO.195 
+Which of the following identify and access management entitles is associated with an access key id and secret access key when using AWS command line interface?
+
+-> IAM USER
