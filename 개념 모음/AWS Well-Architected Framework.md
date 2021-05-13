@@ -116,3 +116,13 @@ Which of the following are pillars of the AWS Well-Architected Framework? (Selec
 Which of the following is an AWS Cloud architecture design principle?
 
 -> Implement loose coupling
+
+(Loose coupling between services can also be done through asynchronous integration. 
+
+It involves one component that generates events and another that consumes them. 
+
+The two components do not integrate through direct point-to-point interaction, but usually through an intermediate durable storage layer. 
+
+This approach decouples the two components and introduces additional resiliency. 
+
+So, for example, if a process that is reading messages from the queue fails, messages can still be added to the queue to be processed when the system recovers.)
