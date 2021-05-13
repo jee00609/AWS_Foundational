@@ -11,3 +11,8 @@ AWS 예산을 사용하면 비용 또는 사용량이 **예산 금액을 초과�
    * 예산 작성 및 관리
    * 필터를 사용하여 예산 구체화
    * 예산에 알림 추가
+
+## 관련 문제
+
+### NO.209 
+Which AWS tool gives users the ability to plan their service usage, service costs, and instance reservations, and also allows them to set custom alerts when their costs or usage exceed established thresholds?
