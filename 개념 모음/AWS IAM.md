@@ -29,6 +29,13 @@ MFA는 사용자가 AWS 웹 사이트 또는 서비스에 액세스할 때 사�
    * 하드웨어 MFA 디바이스
    * SMS 문자 메시지 기반 MFA
 
+## [AWS IAM 모범 사례](https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/)
+
+최소 권한에 대한 모범 사례는 정책에서 가능한 한 최소한의 작업과 리소스 액세스를 허용하도록하는 것입니다.
+
+IAM 정책을 생성 할 때 최소한의 권한으로 시작한 다음 필요한 경우 상승 된 권한을 부여하는 것도 AWS의 권장 사항 입니다. 
+
+또한 IAM 정책은 의도 한대로 작동하는지 확인하기 위해 AWS 환경 및 IAM 정책에 대한 지식이있는 사람이 테스트해야합니다.
 
 
 ## 관련 문제
@@ -58,3 +65,8 @@ Which AWS service controls permissions to the AWS management console?
 A company learns that a user's API key has been exposed in a public code repository.<br/> The user has access to sensitive dat a. What is the FIRST step the company should take to ensure the security of its data?
 
 -> Deactivate the user's API key in AWS Identity and Access Management (IAM)
+
+### NO.215 (헷갈림)
+The AWS IAM best practice for granting least privilege is to.
+
+-> apply an IAM policy to an IAN1 group and limit the size of the group.
