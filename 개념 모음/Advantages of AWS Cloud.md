@@ -27,3 +27,8 @@ Which of the following is an example of how moving to the AWS Cloud reduces upfr
 [참고 자료](https://itcenter.yju.ac.kr/xe_board_aws/6092)
 
 [Examtopics](https://www.examtopics.com/discussions/amazon/view/26031-exam-aws-certified-cloud-practitioner-topic-1-question-297/)
+
+### NO.233 
+How can AWS enable a company to control expenses as an application's usage changes unpredictably?
+
+-> The application can be built to scale up or down automatically as resources are needed
