@@ -59,6 +59,11 @@ AWS 책임 분담 모델에 따라 고객 책임은 무엇인가?
 
 -> Configuring the operating system, network, and firewall. (운영 체제, 네트워크 및 방화벽 구성)
 
+### NO.204 
+Which of the following is the responsibility of AWS?
+
+-> Physically destroying storage media at end of life
+
 
 
 
