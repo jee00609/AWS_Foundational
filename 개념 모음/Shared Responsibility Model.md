@@ -64,7 +64,12 @@ Which of the following is the responsibility of AWS?
 
 -> Physically destroying storage media at end of life
 
+### NO.206 
+A web application is hosted on AWS using an Elastic Load Balancer, multiple Amazon EC2 instances, and Amazon RDS.<br/> Which security measures fall under the responsibility of AWS? (Select TWO.)
 
+-> [**Protecting against IP spoofing and packet sniffing**](https://personal.utdallas.edu/~muratk/courses/cloud11f_files/AWS_Security_Whitepaper.pdf) & [**Installing the latest security patches on the RDS instance**](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/UsingWithRDS.html)
+
+-> 참고 <br/>[AWS 는 EC2 인스턴스에 대한 바이러스 백신 보호를 제공하지 않습니다.](https://d1.awsstatic.com/whitepapers/compliance/KO_Whitepapers/AWS_Anitian_Workbook_PCI_Cloud_Compliance_KO.pdf)
 
 
 
