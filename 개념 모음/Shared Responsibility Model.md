@@ -2,6 +2,14 @@
 
 ![공동 책임 모델](https://d1.awsstatic.com/security-center/Shared_Responsibility_Model_V2.59d1eccec334b366627e9295b304202faf7b899b.jpg)
 
+
+   * **상속된 제어 항목** – 고객이 AWS로부터 전적으로 상속받는 제어 항목.
+      * 물리적 및 환경 제어 항목
+   * **공유된 제어 항목** – 인프라 계층과 고객 계층에 모두 적용되지만, 컨텍스트 또는 관점이 완벽하게 구분되는 제어 항목. 공유된 제어에서는 AWS는 인프라에 대한 요구 사항을 제공하고 고객은 자사의 AWS 서비스 사용 내에서 자체적인 제어 구현을 제공해야 합니다.
+      * 패치 관리 – AWS는 인프라와 관련된 결함 수정과 패치에 대한 책임이 있으며, 고객은 게스트 OS와 애플리케이션 패치에 대한 책임이 있습니다.
+      * 구성 관리 – AWS는 인프라 디바이스의 구성을 유지 관리하고, 고객은 자체 게스트 운영 체제, 데이터베이스 및 애플리케이션의 구성에 대한 책임이 있습니다.
+      * 인지 및 교육 – AWS는 AWS 직원을 교육하고, 고객은 자사의 직원을 교육해야 합니다.
+
 ## 관련 문제
 
 ### NO.108 
@@ -70,6 +78,11 @@ A web application is hosted on AWS using an Elastic Load Balancer, multiple Amaz
 -> [**Protecting against IP spoofing and packet sniffing**](https://personal.utdallas.edu/~muratk/courses/cloud11f_files/AWS_Security_Whitepaper.pdf) & [**Installing the latest security patches on the RDS instance**](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/UsingWithRDS.html)
 
 -> 참고 <br/>[AWS 는 EC2 인스턴스에 대한 바이러스 백신 보호를 제공하지 않습니다.](https://d1.awsstatic.com/whitepapers/compliance/KO_Whitepapers/AWS_Anitian_Workbook_PCI_Cloud_Compliance_KO.pdf)
+
+### NO.212 
+As part of the AWS shared responsibility model, which of the following operational controls do users fully inherit from AWS?
+
+-> Security management of data center
 
 
 
