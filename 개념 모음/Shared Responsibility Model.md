@@ -96,4 +96,7 @@ Which of the following tasks is the responsibility of AWS?
 
 (AWS IaaS 오퍼링 인 EC2에서 하이퍼 바이저 계층부터 모든 것이 AWS의 책임입니다.)
 
+### NO.238 
+According to the AWS shared responsibility model, which of the following are AWS responsibilities? (Select TWO.)
 
+-> **Network infrastructure and virtualization of infrastructure** & **Physical security of hardware**
