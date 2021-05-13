@@ -32,3 +32,8 @@ Which of the following is an example of how moving to the AWS Cloud reduces upfr
 How can AWS enable a company to control expenses as an application's usage changes unpredictably?
 
 -> The application can be built to scale up or down automatically as resources are needed
+
+### NO.234 
+A startup is working on a new application that needs to go to market quickly. <br/>The application requirements may need to be adjusted in the near future.<br/>Which of the following is a characteristic of the AWS Cloud that would meet this specific need?
+
+-> Agility
