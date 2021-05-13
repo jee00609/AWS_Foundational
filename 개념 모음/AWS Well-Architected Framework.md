@@ -40,7 +40,7 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
 
 ## AWS Welll-Architected 프레임워크 개념
 
-### 탄력성
+### [탄력성](https://wa.aws.amazon.com/wat.concept.elasticity.en.html)
 
 필요에 따라 리소스를 획득하고 더 이상 필요하지 않을 때 리소스를 해제하는 기능
 
