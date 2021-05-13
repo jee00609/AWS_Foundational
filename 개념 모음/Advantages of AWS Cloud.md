@@ -37,3 +37,8 @@ How can AWS enable a company to control expenses as an application's usage chang
 A startup is working on a new application that needs to go to market quickly. <br/>The application requirements may need to be adjusted in the near future.<br/>Which of the following is a characteristic of the AWS Cloud that would meet this specific need?
 
 -> Agility
+
+### NO.244 
+What are the market advantages of running workloads in the AWS cloud?
+
+-> **Less staff time is required to deploy new workloads** & **Increased productivity for application development teams**
