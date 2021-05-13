@@ -89,5 +89,11 @@ Under the AWS shared responsibility model, AWS is responsible for which security
 
 -> Physical security of global infrastructure
 
+### NO.221 
+Which of the following tasks is the responsibility of AWS?
+
+-> [Securing the Amazon EC2 hypervisor](https://www.mindpointgroup.com/blog/the-aws-shared-responsibility-model-part-1-security-in-the-cloud/)
+
+(AWS IaaS 오퍼링 인 EC2에서 하이퍼 바이저 계층부터 모든 것이 AWS의 책임입니다.)
 
 
