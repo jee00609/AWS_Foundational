@@ -105,3 +105,10 @@ What are characteristics of AWS IAM users and groups? (Select TWO.)
 Which of the following are security best practices for using AWS Identity and Access Management (IAM)? (Select TWO)
 
 -> **Rotate credentials regularly** & **Enable multi-factor authentication (MFA)**
+
+### NO.232
+According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?
+
+-> Have the EC2 instance assume a role to obtain the privileges to upload the file.
+
+[connect to my Amazon S3 bucket from my Amazon EC2 instance](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-access-s3-bucket/)
