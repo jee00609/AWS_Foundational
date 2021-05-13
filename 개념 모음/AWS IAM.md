@@ -15,6 +15,7 @@ AWS Identity and Access Management(IAM)는 **AWS 리소스에 대한 액세스�
    * IAM 사용자
       * AWS에서 사용자는 이름, AWS Management 콘솔에 로그인할 암호, 그리고 API 또는 CLI와 함께 사용할 수 있는 2개의 액세스 키로 이루어져 있습니다. 
       * **액세스 키 ID**와 **보안 액세스 키**
+      * IAM 사용자로 **AWS Management 콘솔에 로그인** 가능합니다.
    * IAM 그룹
    * IAM 역할
    * IAM의 임시 자격 증명
@@ -49,3 +50,6 @@ Which of the following can be used a second factor within the AWS Management Con
 Which of the following identify and access management entitles is associated with an access key id and secret access key when using AWS command line interface?
 
 -> IAM USER
+
+### NO.203 
+Which AWS service controls permissions to the AWS management console?
