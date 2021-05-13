@@ -13,4 +13,6 @@ Amazon Relational Database Service(Amazon RDS)를 사용하여 DB 인스턴스�
 ### NO.213 
 What feature of Amazon RDS helps to create globally redundant databases?
 
+(Amazon RDS의 어떤 기능이 전역 중복 데이터베이스를 생성하는 데 도움이 됩니까?)
+
 -> [Cross-Region read replicas](https://aws.amazon.com/ko/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/)
