@@ -126,3 +126,20 @@ The two components do not integrate through direct point-to-point interaction, b
 This approach decouples the two components and introduces additional resiliency. 
 
 So, for example, if a process that is reading messages from the queue fails, messages can still be added to the queue to be processed when the system recovers.)
+
+### NO.250 (잘 모름)
+When architecting cloud applications, which of the following are a key design principle?
+
+-> [Implement elasticity](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+
+[ExamTopics](https://www.examtopics.com/discussions/amazon/view/8230-exam-aws-certified-cloud-practitioner-topic-1-question-68/)
+
+(Another way you can save money with AWS is by taking advantage of the platform’s elasticity. 
+
+Plan to implement Auto Scaling for as many Amazon EC2 workloads as possible, so that you horizontally scale up when needed and scale down and automatically reduce your spending when you don’t need that capacity anymore. 
+
+In addition, you can automate turning off non-production workloads when not in use.
+
+Ultimately, consider which compute workloads you could implement on AWS Lambda so that you never pay for idle or redundant resources.
+
+Where possible, replace Amazon EC2 workloads with AWS managed services that either don’t require you to make any capacity decisions (such as ELB, Amazon CloudFront, Amazon SQS, Amazon Kinesis Firehose, AWS Lambda, Amazon SES, Amazon CloudSearch, or Amazon EFS) or enable you to easily modify capacity as and when need (such as Amazon DynamoDB, Amazon RDS, or Amazon ES).)
