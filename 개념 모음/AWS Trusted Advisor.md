@@ -60,5 +60,7 @@ Which AWS service provides recommendations for rightsizing AWS resources such as
 
 To avoid malicious compute activities, a user needs a quick way to determine if any Amazon EC2 instances have ports that allow Unrestricted access.<br/>Which AWS service will support this requirement?
 
+### NO.248 
+Which of the following are categories of AWS Trusted Advisor? (Select TWO.)
 
-
+->** Fault Tolerance** & **Performance**
