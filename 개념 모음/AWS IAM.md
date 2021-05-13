@@ -34,13 +34,33 @@ MFA는 사용자가 AWS 웹 사이트 또는 서비스에 액세스할 때 사�
    * 하드웨어 MFA 디바이스
    * SMS 문자 메시지 기반 MFA
 
-## [AWS IAM 모범 사례](https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/)
+## [AWS의 권한 관리 모범 사례](https://kirkpatrickprice.com/blog/best-practices-for-privilege-management-in-aws/)
 
 최소 권한에 대한 모범 사례는 정책에서 가능한 한 최소한의 작업과 리소스 액세스를 허용하도록하는 것입니다.
 
 IAM 정책을 생성 할 때 최소한의 권한으로 시작한 다음 필요한 경우 상승 된 권한을 부여하는 것도 AWS의 권장 사항 입니다. 
 
 또한 IAM 정책은 의도 한대로 작동하는지 확인하기 위해 AWS 환경 및 IAM 정책에 대한 지식이있는 사람이 테스트해야합니다.
+
+## [IAM의 보안 모범 사례](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/best-practices.html)
+
+   * AWS 계정 루트 사용자 액세스 키 잠금
+   * 개별 IAM 사용자 만들기
+   * 사용자 그룹을 사용하여 IAM 사용자에게 권한을 할당합니다.
+   * 최소 권한 부여
+   * AWS 관리형 정책으로 권한 사용 시작
+   * 정책 유효성 검사
+   * 인라인 정책 대신 고객 관리형 정책 사용
+   * 액세스 레벨을 이용한 IAM 권한 검토
+   * 사용자에 대한 강력한 암호 정책 구성
+   * MFA 활성화
+   * Amazon EC2 인스턴스에서 실행되는 애플리케이션에 역할 사용
+   * 역할을 사용하여 권한 위임
+   * 액세스 키를 공유하면 안 됩니다.
+   * 자격 증명을 정기적으로 교체
+   * 불필요한 자격 증명 삭제
+   * 보안 강화를 위해 정책 조건 사용
+   * AWS 계정의 활동 모니터링
 
 
 ## 관련 문제
@@ -80,3 +100,8 @@ The AWS IAM best practice for granting least privilege is to.
 What are characteristics of AWS IAM users and groups? (Select TWO.)
 
 -> **A user can be a member of multiple groups.** & **Groups can contain users only and cannot be nested.**
+
+### NO.230 
+Which of the following are security best practices for using AWS Identity and Access Management (IAM)? (Select TWO)
+
+-> **Rotate credentials regularly** & **Enable multi-factor authentication (MFA)**
