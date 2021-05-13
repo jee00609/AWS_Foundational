@@ -55,7 +55,7 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
    * 탄력성을 위아래로 테스트하여 부하 변동에 대한 요구 사항을 충족하는지 확인합니다.
    * 요구 사항을 충족 할 수있을 때까지 구현 및 테스트를 반복합니다. 골든 Amazon 머신 이미지, 도커 컨테이너 등을 조사하여 시작 속도를 높일 수 있습니다.
 
-### [느슨한 커플링](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
+### [느슨한 커플링 (Loose coupling)](https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf)
 
 IT 구성 요소는 상호 종속성을 줄이도록 설계하여 한 구성 요소의 변경 또는 실패가 다른 구성 요소와 연계되지 않도록 해야 한다는 아키텍처 설계 원칙
 
@@ -111,3 +111,8 @@ Which design principles of the AWS Well-Architected Framework help increase reli
 Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO )
 
 -> **Performance efficiency** & **Security**
+
+### NO.239 
+Which of the following is an AWS Cloud architecture design principle?
+
+-> Implement loose coupling
