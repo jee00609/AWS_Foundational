@@ -4,11 +4,11 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
 
 ## AWS Well-Architected 의 5가지 원칙 (Well-Architected 프레임워크의 기반)
 
-   * [운영 우수성 기반](#운영-우수성-기반)
-   * [보안 기반](#보안-기반)
-   * [안정성 기반](#안정성-기반)
-   * [성능 효율성 기반](#성능-효율성-기반)
-   * [비용 최적화 기반](#비용-최적화-기반)
+   * [운영 우수성 기반 (Operational Excellence)](#운영-우수성-기반)
+   * [보안 기반 (Security)](#보안-기반)
+   * [안정성 기반 (Reliability)](#안정성-기반)
+   * [성능 효율성 기반 (Performance Efficiency)](#성능-효율성-기반)
+   * [비용 최적화 기반 (Cost Optimization)](#비용-최적화-기반)
 
 ## 운영 우수성 기반
 
@@ -106,3 +106,8 @@ Which of the following is an AWS Well-Architected Framework design principle rel
 Which design principles of the AWS Well-Architected Framework help increase reliability? (Select TWO.)
 
 -> **Automatically recover from failure** & **Scale horizontally to increase workload availability**
+
+### NO.227 
+Which of the following are pillars of the AWS Well-Architected Framework? (Select TWO )
+
+-> **Performance efficiency** & **Security**
