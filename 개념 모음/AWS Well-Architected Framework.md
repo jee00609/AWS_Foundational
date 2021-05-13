@@ -22,6 +22,14 @@ AWS Well-Architected는 애플리케이션 및 워크로드에 사용할 보안,
 
 안정성 기반에는 **인프라 또는 서비스 중단으로부터 시스템을 복구**하고, 수요를 충족할 컴퓨팅 리소스를 동적으로 확보하며, 잘못된 구성 또는 일시적 네트워크 문제와 같은 중단을 완화하는 기능이 포함됩니다.
 
+[안정성 설계 원칙](https://docs.aws.amazon.com/ko_kr/wellarchitected/latest/reliability-pillar/design-principles.html)
+
+   * 장애 자동 복구
+   * 복구 절차 테스트
+   * 수평적 확장으로 워크로드 전체 가용성 증대
+   * 용량 추정 불필요
+   * 자동화 변경 사항 관리
+
 ## 성능 효율성 기반
 
 성능 효율성 기반에서는 요구 사항 충족을 위한 컴퓨팅 리소스의 효율적인 사용 방식, 그리고 수요가 변화하고 기술이 발전하더라도 우수한 효율성을 유지하는 방법을 중점적으로 설명합니다.
@@ -93,3 +101,8 @@ IT systems should be designed to reduce interdependencies, so that a change or f
 Which of the following is an AWS Well-Architected Framework design principle related to reliability?
 
 -> Ability to recover from failure
+
+### NO.211 
+Which design principles of the AWS Well-Architected Framework help increase reliability? (Select TWO.)
+
+-> **Automatically recover from failure** & **Scale horizontally to increase workload availability**
