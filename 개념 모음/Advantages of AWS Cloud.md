@@ -11,3 +11,8 @@
 Which cloud computing advantage is a company applying when it users in different countries?
 
 -> Global reach
+
+### NO.220 
+A company is required lo store its data close to its primary users. <br/>Which benefit of the AWS Cloud supports this requirement?
+
+-> [Global footprint](https://aws.amazon.com/about-aws/global-infrastructure/global_network/?nc1=h_ls)
