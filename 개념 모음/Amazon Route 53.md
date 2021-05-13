@@ -19,4 +19,6 @@ Amazon Route 53은 가용성과 확장성이 우수한 **DNS(도메인 이름 �
 ### NO.163 
 [Which AWS service can help a company detect an outage of its website servers and redirect users to alternate servers?](https://aws.amazon.com/ko/about-aws/whats-new/2013/02/11/announcing-dns-failover-for-route-53/)
 
+### NO.214 
+Which of the following is an AWS managed Domain Name System (DNS) web service?
 
