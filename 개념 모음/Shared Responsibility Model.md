@@ -84,6 +84,10 @@ As part of the AWS shared responsibility model, which of the following operation
 
 -> Security management of data center
 
+### NO.218 
+Under the AWS shared responsibility model, AWS is responsible for which security-related task?
+
+-> Physical security of global infrastructure
 
 
 
