@@ -53,3 +53,8 @@ Which of the following identify and access management entitles is associated wit
 
 ### NO.203 
 Which AWS service controls permissions to the AWS management console?
+
+### NO.205 
+A company learns that a user's API key has been exposed in a public code repository.<br/> The user has access to sensitive dat a. What is the FIRST step the company should take to ensure the security of its data?
+
+-> Deactivate the user's API key in AWS Identity and Access Management (IAM)
