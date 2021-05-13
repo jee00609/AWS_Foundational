@@ -41,3 +41,8 @@ Which of the following are benefits of the AWS business support plan?
 A company needs 24/7 phone email and chat access with a response time of less than 1 hour if a production system has a service interruption Which AWS Support plan meets these requirements at the LOWEST cost?
 
 -> Business
+
+### NO.241 
+How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?
+
+-> AWS Trusted Advisor
