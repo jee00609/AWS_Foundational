@@ -18,3 +18,8 @@ Which of the following services have Distributed Denial of Service (DDoS) mitiga
 
 ### NO.196 
 Users are reporting latency when connecting to an website with a global customer base.<br/>Which AWS service will following can an AWS customer use to launch educing latency?
+
+### NO.222 
+A company is building an application that needs to deliver images and videos globally with minimal latency. <br/>Which approach can the company use to accomplish this in a cost effective manner?
+
+-> Deliver the content through Amazon CloudFiont
