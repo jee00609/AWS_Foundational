@@ -22,6 +22,8 @@ Which of the following is an example of how moving to the AWS Cloud reduces upfr
 
 -> [By replacing large capital investments with lower variable costs](https://aws.amazon.com/economics/)
 
+(대규모 자본 투자를 낮은 가변 비용으로 대체)
+
 [참고 자료](https://itcenter.yju.ac.kr/xe_board_aws/6092)
 
 [Examtopics](https://www.examtopics.com/discussions/amazon/view/26031-exam-aws-certified-cloud-practitioner-topic-1-question-297/)
