@@ -16,7 +16,12 @@ AWS Identity and Access Management(IAM)는 **AWS 리소스에 대한 액세스�
       * AWS에서 사용자는 이름, AWS Management 콘솔에 로그인할 암호, 그리고 API 또는 CLI와 함께 사용할 수 있는 2개의 액세스 키로 이루어져 있습니다. 
       * **액세스 키 ID**와 **보안 액세스 키**
       * IAM 사용자로 **AWS Management 콘솔에 로그인** 가능합니다.
-   * IAM 그룹
+   * [IAM 그룹](https://docs.aws.amazon.com/ko_kr/IAM/latest/UserGuide/id_groups.html)
+      * IAM 사용자 그룹은 IAM 사용자들의 집합입니다.
+      * 한 사용자 그룹에 여러 사용자가 포함될 수 있으며 한 사용자가 여러 사용자 그룹에 속할 수 있습니다.
+      * 사용자 그룹은 중첩될 수 없습니다. 즉, 사용자 그룹은 사용자만 포함할 수 있으며 다른 사용자 그룹은 포함할 수 없습니다.
+      * AWS 계정의 모든 사용자를 자동으로 포함하는 기본 사용자 그룹은 없습니다. 이러한 사용자 그룹이 필요한 경우 하나 만들어 새로운 사용자를 각각 해당 사용자 그룹에 할당해야 합니다.
+      * AWS 계정의 IAM 리소스 수와 크기는 제한되어 있습니다. 자세한 내용은 IAM 및 STS 할당량 단원을 참조하세요.
    * IAM 역할
    * IAM의 임시 자격 증명
 
@@ -70,3 +75,8 @@ A company learns that a user's API key has been exposed in a public code reposit
 The AWS IAM best practice for granting least privilege is to.
 
 -> apply an IAM policy to an IAN1 group and limit the size of the group.
+
+### NO.226 
+What are characteristics of AWS IAM users and groups? (Select TWO.)
+
+-> **A user can be a member of multiple groups.** & **Groups can contain users only and cannot be nested.**
