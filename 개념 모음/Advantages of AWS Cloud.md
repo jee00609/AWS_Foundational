@@ -16,3 +16,12 @@ Which cloud computing advantage is a company applying when it users in different
 A company is required lo store its data close to its primary users. <br/>Which benefit of the AWS Cloud supports this requirement?
 
 -> [Global footprint](https://aws.amazon.com/about-aws/global-infrastructure/global_network/?nc1=h_ls)
+
+### NO.229 
+Which of the following is an example of how moving to the AWS Cloud reduces upfront cost?
+
+-> [By replacing large capital investments with lower variable costs](https://aws.amazon.com/economics/)
+
+[참고 자료](https://itcenter.yju.ac.kr/xe_board_aws/6092)
+
+[Examtopics](https://www.examtopics.com/discussions/amazon/view/26031-exam-aws-certified-cloud-practitioner-topic-1-question-297/)
