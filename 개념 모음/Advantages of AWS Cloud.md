@@ -4,3 +4,10 @@
 
    * AWS는 클라우드 인프라의 유지 관리를 관리합니다.
    * AWS는 물리적 서버에 대한 용량 계획을 관리합니다.
+
+## 관련 문제
+
+### NO.217 
+Which cloud computing advantage is a company applying when it users in different countries?
+
+-> Global reach
