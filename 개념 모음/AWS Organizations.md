@@ -71,3 +71,6 @@ Service control policies (SCPs) manage permissions for which of the following?
 How can one AWS account use Reserved Instances from another AWS account?
 
 -> By using AWS Organizations consolidated billing
+
+### NO.202 
+Which service allows a company with multiple AWS accounts to combine its usage to obtain volume discounts?
