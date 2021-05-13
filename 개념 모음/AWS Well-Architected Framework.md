@@ -88,3 +88,8 @@ Which scenarios represent the concept of elasticity on AWS? (Choose two.)
 IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components This is an example of which principle of cloud architecture design?
 
 -> Loose coupling
+
+### NO.207 
+Which of the following is an AWS Well-Architected Framework design principle related to reliability?
+
+-> Ability to recover from failure
