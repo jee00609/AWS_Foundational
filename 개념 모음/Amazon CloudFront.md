@@ -23,3 +23,6 @@ Users are reporting latency when connecting to an website with a global customer
 A company is building an application that needs to deliver images and videos globally with minimal latency. <br/>Which approach can the company use to accomplish this in a cost effective manner?
 
 -> Deliver the content through Amazon CloudFiont
+
+### NO.228 
+Which AWS service securely delivers data, videos , applications, and APIS to users globally with low latency and high transfer speeds?
