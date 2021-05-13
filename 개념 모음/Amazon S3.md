@@ -39,6 +39,26 @@ Amazon S3는 언제든지 웹상 어디서나 원하는 양의 데이터를 저�
 
    * **S3 Glacier Deep Archive**: <br/>Costs four times less than Glacier and is the cheapest storage solution, at about $1 per terabyte per month. <br/>This solution is intended for very long-term storage.
 
+## Amazon S3 보안
+
+AWS 고객은 보안에 매우 민감한 조직의 요구 사항에 부합하도록 구축된 데이터 센터 및 네트워크 아키텍처의 혜택을 누릴 수 있습니다.
+
+   * 클라우드의 보안 - AWS는 AWS 클라우드에서 AWS 서비스를 실행하는 인프라를 보호해야 합니다. 
+      * 또한 AWS는 안전하게 사용할 수 있는 서비스를 제공해야 합니다. 
+      * 서드 파티 감사자는 AWS 규정 준수 프로그램의 일환으로 정기적으로 보안 효과를 테스트하고 검증합니다. 
+      * Amazon S3에 적용되는 규정 준수 프로그램에 대한 자세한 내용은 [규정 준수 프로그램 제공 범위 내 AWS 서비스](https://aws.amazon.com/ko/compliance/services-in-scope/)를 참조하십시오.
+   * 클라우드 내 보안 - 사용자의 책임은 사용하는 AWS 서비스에 의해 결정됩니다. 
+      * 또한 데이터의 민감도, 조직의 요구 사항 및 관련 법률 및 규정을 비롯한 기타 요소에 대해서도 책임이 있습니다.
+
+## 암호화를 사용하여 데이터 보호
+
+Amazon S3에서 데이터 센터의 디스크에 데이터를 쓰면서 객체 수준에서 데이터를 암호화하고 사용자가 해당 데이터에 액세스할 때 자동으로 암호를 해독합니다. 
+
+[암호화 키 관리 방법으로 무엇을 선택하느냐에 따라 다음과 같은 세 가지 옵션을 독립적으로 사용할 수 있습니다.](https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/userguide/serv-side-encryption.html)
+
+   * Amazon S3 관리형 키를 사용한 서버 측 암호화 **(SSE-S3)**
+   * AWS Key Management Service에 저장된 고객 마스터 키(CMK)를 사용한 서버 측 암호화 **(SSE-KMS)**
+   * 고객 제공 키를 사용한 서버 측 암호화 **(SSE-C)**
 
 ## 관련 문제
 
@@ -49,3 +69,8 @@ Which service stores objects, provides real-time access to those objects, and of
 ### NO.151 
 
 Which service provides a virtually unlimited amount of online highly durable object storage?
+
+### NO.210 
+Which encryption types can be used to protect objects at rest amazon S3?
+
+-> **Server side encryption with S3 managed encryption keys (SSE-S3)** & **Server side encryption with AWS KMS managed encryption keys (SSE KMS)**
