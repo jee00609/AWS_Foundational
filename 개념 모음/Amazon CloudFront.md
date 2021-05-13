@@ -26,3 +26,8 @@ A company is building an application that needs to deliver images and videos glo
 
 ### NO.228 
 Which AWS service securely delivers data, videos , applications, and APIS to users globally with low latency and high transfer speeds?
+
+### NO.246 
+A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Select TWO)
+
+-> **AWS Global Accelerator** & **Amazon CloudFront**
