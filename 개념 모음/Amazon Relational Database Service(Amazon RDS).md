@@ -15,4 +15,6 @@ What feature of Amazon RDS helps to create globally redundant databases?
 
 (Amazon RDS의 어떤 기능이 전역 중복 데이터베이스를 생성하는 데 도움이 됩니까?)
 
--> [Cross-Region read replicas](https://aws.amazon.com/ko/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/)
+-> [Cross-Region read replicas](https://aws.amazon.com/ko/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/) or [Snapshots](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSSnapshots.html)
+
+[Snapshots 참고 +](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
