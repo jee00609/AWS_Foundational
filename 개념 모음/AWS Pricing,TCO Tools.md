@@ -32,3 +32,10 @@ AWS 비용 및 사용량을 계획하거나 새로운 인스턴스 및 서비스
    * Pick the right pricing model (구매 옵션) - Leveraging the Right Princing Model
    * Match usage to storage class (스토리지 클래스)
    * Measuring & Monitoring (지속적인 모니터링)
+
+## 관련 문제
+
+### NO:224
+
+[](https://www.examtopics.com/discussions/amazon/view/16266-exam-aws-certified-cloud-practitioner-topic-1-question-198/
+)
