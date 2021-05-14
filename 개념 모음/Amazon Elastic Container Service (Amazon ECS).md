@@ -9,7 +9,7 @@ Amazon ECS에서 애플리케이션을 배포하려면 애플리케이션 구성
 
 ## 관련 문제
 
-### NO.235 
+### NO.235 (헷갈림)
 A company is using Amazon Elastic Container Service (Amazon ECS) for a development environment AWS is responsible for which Amazon ECS components? (Select TWO.)
 
 -> [**IAM**](https://docs.aws.amazon.com/ko_kr/AmazonECS/latest/developerguide/task-iam-roles.html) & [**Physical infrastructure**](https://aws.amazon.com/ko/blogs/containers/how-amazon-ecs-manages-cpu-and-memory-resources/)
