@@ -78,6 +78,7 @@ A web application is hosted on AWS using an Elastic Load Balancer, multiple Amaz
 -> [**Protecting against IP spoofing and packet sniffing**](https://personal.utdallas.edu/~muratk/courses/cloud11f_files/AWS_Security_Whitepaper.pdf) & [**Installing the latest security patches on the RDS instance**](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/UsingWithRDS.html)
 
 -> 참고 <br/>[AWS 는 EC2 인스턴스에 대한 바이러스 백신 보호를 제공하지 않습니다.](https://d1.awsstatic.com/whitepapers/compliance/KO_Whitepapers/AWS_Anitian_Workbook_PCI_Cloud_Compliance_KO.pdf)
+<br/>[고객은 데이터 관리(암호화 옵션 포함), 자산 분류, 적절한 허가를 부여하는 IAM 도구 사용에 책임이 있습니다.](https://aws.amazon.com/ko/compliance/shared-responsibility-model/)
 
 ### NO.212 
 As part of the AWS shared responsibility model, which of the following operational controls do users fully inherit from AWS?
