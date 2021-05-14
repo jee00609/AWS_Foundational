@@ -18,3 +18,5 @@ What feature of Amazon RDS helps to create globally redundant databases?
 -> [Cross-Region read replicas](https://aws.amazon.com/ko/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/) or [Snapshots](https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/EBSSnapshots.html)
 
 [Snapshots 참고 +](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
+
+답은 Cross-Region read replicas 가 더 신빈성있다고 본다.
