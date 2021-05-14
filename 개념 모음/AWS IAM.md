@@ -89,7 +89,7 @@ Which AWS service controls permissions to the AWS management console?
 ### NO.205 
 A company learns that a user's API key has been exposed in a public code repository.<br/> The user has access to sensitive dat a. What is the FIRST step the company should take to ensure the security of its data?
 
--> Deactivate the user's API key in AWS Identity and Access Management (IAM)
+-> [Deactivate the user's API key in AWS Identity and Access Management (IAM)](https://aws.amazon.com/ko/blogs/security/what-to-do-if-you-inadvertently-expose-an-aws-access-key/)
 
 ### NO.215 (헷갈림)
 The AWS IAM best practice for granting least privilege is to.
