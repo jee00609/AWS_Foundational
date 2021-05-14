@@ -94,7 +94,7 @@ A company learns that a user's API key has been exposed in a public code reposit
 ### NO.215 (헷갈림)
 The AWS IAM best practice for granting least privilege is to.
 
--> apply an IAM policy to an IAN1 group and limit the size of the group.
+-> apply an IAM policy only to IAM users who require it
 
 ### NO.226 
 What are characteristics of AWS IAM users and groups? (Select TWO.)
