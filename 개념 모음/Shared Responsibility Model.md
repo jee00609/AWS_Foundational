@@ -101,3 +101,8 @@ Which of the following tasks is the responsibility of AWS?
 According to the AWS shared responsibility model, which of the following are AWS responsibilities? (Select TWO.)
 
 -> **Network infrastructure and virtualization of infrastructure** & **Physical security of hardware**
+
+### NO.253 
+Under the shared responsibility model, which of the following is a shared control between a customer and AWS?
+
+-> Patch management
