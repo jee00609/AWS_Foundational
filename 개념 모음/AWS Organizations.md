@@ -8,6 +8,8 @@ AWS Organizations 기능에는 비즈니스의 예산,보안 및 규정 준수 �
 
 AWS Organizations의 통합 결제 기능을 사용하여 여러 AWS 계정 또는 여러 Amazon Internet Services Pvt. Ltd(AISPL) 계정의 결제를 통합할 수 있습니다.
 
+결제를 위해 AWS 는 **조직 내 모든 계정을 하나의 계정처럼 취급**합니다. 
+
 AWS 계정간에 [**예약 인스턴스의 비용 이점을 공유**](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/) 할 수 있는 기능을 제공합니다.
 
 AWS 제품 및 서비스는 소규모 신생 기업에서 대기업에 이르기까지 모든 규모의 회사에서 사용할 수 있도록 설계되었습니다. 
@@ -74,3 +76,7 @@ How can one AWS account use Reserved Instances from another AWS account?
 
 ### NO.202 
 Which service allows a company with multiple AWS accounts to combine its usage to obtain volume discounts?
+
+### NO.251 
+A company's procurement department wants volume discounts on AWS services for the company, but numerous departments have separate AWS accounts.<br/>
+Which AWS service or tool can the company use to receive volume discounts across multiple AWS accounts?
