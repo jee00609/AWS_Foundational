@@ -113,3 +113,9 @@ A workload on AWS will run for the foreseeable future by using a consistent numb
 When is it beneficial for a company to use a Spot Instance?
 
 -> When there is flexibility in when an application needs to run.
+
+### NO.252 
+A company uses Amazon EC2 infrastructure to host steady-state workloads and needs to achieve significant cost savings.<br/>
+Which EC2 instance pricing model should the company select?
+
+-> Reserved Instances
