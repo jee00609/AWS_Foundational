@@ -35,7 +35,14 @@ AWS 비용 및 사용량을 계획하거나 새로운 인스턴스 및 서비스
 
 ## 관련 문제
 
-### NO:224
+### NO.224
+When building a cloud Total Cost of Ownership (TCO) model, which cost elements should be considered for workloads running on AWS? (Select THREE.)
 
-[](https://www.examtopics.com/discussions/amazon/view/16266-exam-aws-certified-cloud-practitioner-topic-1-question-198/
-)
+-> [자료](https://www.examtopics.com/discussions/amazon/view/16266-exam-aws-certified-cloud-practitioner-topic-1-question-198/)
+
+### NO.259 
+When comparing AWS to on-premises total cost of ownership (TCO), what costs are included with AWS?
+
+-> [자료](https://www.examtopics.com/discussions/amazon/view/5803-exam-aws-certified-cloud-practitioner-topic-1-question-10/)
+
+-> [자료2-13](https://media.amazonwebservices.com/AWS_TCO_Web_Applications.pdf)
