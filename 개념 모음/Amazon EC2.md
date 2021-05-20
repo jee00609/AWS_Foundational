@@ -141,3 +141,8 @@ Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
 Which Amazon EC2 instance pricing model can provide discounts of up to 90%?
 
 -> Spot Instances
+
+### NO.276 
+Which of the following Amazon EC2 pricing models allow customers to use existing serverbound software licenses?
+
+-> Dedicated Hosts
