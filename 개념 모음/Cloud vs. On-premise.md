@@ -10,6 +10,12 @@
 
 온프레미스(On-premise)란 기업의 서버를 클라우드 같은 원격 환경에서 운영하는 방식이 아닌, 자체적으로 보유한 전산실 서버에 직접 설치해 운영하는 방식을 의미합니다. 
 
+## [클라우드 컴퓨팅의 이점](https://aws.amazon.com/ko/what-is-cloud-computing/)
+
+클라우드를 통해 자본 비용(데이터 센터, 물리적 서버 등)을 가변 비용으로 전환하고, 사용한 만큼만 IT 비용을 지불할 수 있습니다. 
+
+또한 규모의 경제 덕분에 직접 운영할 때보다 가변 비용이 훨씬 더 저렴합니다. 
+
 ## 관련 문제
 
 ## NO.130
@@ -59,3 +65,7 @@ How can the company get this support? (Select TOO.)
    * Select a partner from the AWS Partner Network (APN) to assist with the migration.
       * AWS 파트너 네트워크 (APN)에서 파트너를 선택하여 마이그레이션을 지원합니다.
 
+### NO.297 
+Which of the following deployment models enables customers to fully trade their capital IT expenses for operational expenses?
+
+-> Cloud
