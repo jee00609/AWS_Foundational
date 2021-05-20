@@ -28,3 +28,8 @@ Which AWS services help to improve application performance by reducing latency w
 A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Select TWO)
 
 -> **AWS Global Accelerator** & **Amazon CloudFront**
+
+### NO.269 
+A company wants to use an AWS service to continuously monitor the health of its application endpoints based on proximity to application users. <br/>
+The company also needs to route traffic to healthy Regional endpoints and to improve application availability and performance.<br/>
+Which service will meet these requirements?
