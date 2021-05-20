@@ -24,6 +24,22 @@ AWS 계정 루트 사용자 AWS Management Console 로그인 이벤트에 대한
       * 특정 서비스 또는 응용 프로그램의 모든 이벤트를 기록합니다.
       * What is happening on AWS?
 
+## [Amazon CloudWatch FAQ](https://aws.amazon.com/cloudwatch/faqs/)
+
+### 어떤 유형의 CloudWatch 경보를 생성 할 수 있습니까?
+
+계정의 Amazon CloudWatch 지표를 모니터링하는 경보를 생성 할 수 있습니다.
+
+예를 들어 
+
+   * **Amazon EC2 인스턴스 CPU 사용률**
+   * Amazon ELB 요청 지연 시간
+   * Amazon DynamoDB 테이블 처리량
+   * Amazon SQS 대기열 길이
+   * AWS 청구서에 대한 요rma
+
+에 대한 경보를 생성 할 수 있습니다.
+
 ## 관련 문제
 
 ### NO.179 
@@ -31,3 +47,6 @@ Which service can be used to monitor and receive alerts for AWS account root use
 
 ### NO.216
 [Which AWS service or feature can be used to monitor for potential disk write spikes on a system running on Amazon EC2?](https://aws.amazon.com/ko/blogs/database/how-to-use-cloudwatch-metrics-to-decide-between-general-purpose-or-provisioned-iops-for-your-rds-database/)
+
+### NO.254 
+Which AWS service or feature can be used to monitor CPU usage?
