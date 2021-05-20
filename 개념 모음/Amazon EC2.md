@@ -73,6 +73,12 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
    * [사전 약정이 없습니다.](https://aws.amazon.com/ko/about-aws/)
    * 사용자는 필요에 따라 리소스를 프로비저닝할 수 있습니다.
 
+## 데이터베이스
+
+### [Amazon EC2, 이제 Microsoft SQL Server 2019 지원](https://aws.amazon.com/ko/about-aws/whats-new/2019/11/amazon-ec2-now-supports-microsoft-sql-server-2019/)
+
+SQL Server 2019는 오늘부터 모든 AWS 리전에서 사용할 수 있습니다.
+
 ## 관련 문제
 
 ### NO.116 
@@ -119,3 +125,8 @@ A company uses Amazon EC2 infrastructure to host steady-state workloads and need
 Which EC2 instance pricing model should the company select?
 
 -> Reserved Instances
+
+### NO.257 
+Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
+
+-> **Amazon EC2** & **Amazon Relational Database Service (Amazon RDS)**
