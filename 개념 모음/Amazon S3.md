@@ -79,3 +79,8 @@ Which encryption types can be used to protect objects at rest amazon S3?
 A company is looking for a way to encrypt data stored on Amazon S3. Which AWS managed service can be used to help to accomplish this?
 
 -> AWS Key Management Service (AWS KMS)
+
+### NO.286 
+Which of the following services has a primarily encryption-related purpose?
+
+-> AWS Key Management Service (AWS KMS)
