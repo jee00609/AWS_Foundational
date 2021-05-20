@@ -106,3 +106,8 @@ According to the AWS shared responsibility model, which of the following are AWS
 Under the shared responsibility model, which of the following is a shared control between a customer and AWS?
 
 -> Patch management
+
+### NO.262 
+Which tasks are the customer's responsibility in the AWS shared
+
+-> **Configuration management of user's applications** & **Security groups configuration**
