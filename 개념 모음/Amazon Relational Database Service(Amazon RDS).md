@@ -25,3 +25,9 @@ What feature of Amazon RDS helps to create globally redundant databases?
 Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
 
 -> **Amazon EC2** & [**Amazon Relational Database Service (Amazon RDS)**](https://aws.amazon.com/ko/rds/sqlserver/)
+
+### NO.296 
+A user needs a relational database but does not have the resources to manage the hardware, resiliency, and replication. <br/>
+Which AWS service option meets the user's requirements?
+
+-> Choose Amazon RDS for MySQL.
