@@ -38,3 +38,8 @@ AZ는 다른 모든 AZ와 수 킬로미터에 상당하는 **유의미한 거리
 Which AWS feature should a customer leverage to achieve high availability of an application?
 
 -> Availability Zones
+
+#### NO.261 
+Which statement is true about AWS global infrastructure?
+
+-> AWS Regions consist of multiple Availability Zones.
