@@ -12,3 +12,6 @@ Personal Health Dashboard를 사용하면 AWS 리소스의 상태가 변경되�
 
 ### NO.208 
 Which AWS dashboard displays relevant and timely information to help users manage events in progress, and provides proactive notifications to help plan for scheduled activities?
+
+### NO.282
+Which AWS service provides alerts when an AWS event may impact a company's AWS resources?
