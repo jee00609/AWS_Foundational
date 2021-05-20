@@ -68,6 +68,12 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
 
  스팟 인스턴스는 용량을 더 이상 사용할 수 없거나 스팟 가격이 최고 가격을 초과하거나 스팟 인스턴스에 대한 수요가 증가하는 경우 Amazon EC2 스팟 서비스에서 개별 스팟 인스턴스을 중단할 수 있습니다.
  
+ Amazon EC2 스팟 인스턴스를 사용하면 AWS 클라우드에서 미사용 EC2 용량을 활용할 수 있습니다.
+ 
+ 스팟 인스턴스는 온디맨드 요금과 비교하여 **최대 90% 할인된 금액으로 제공**됩니다.
+ 
+ TIP) 예약 인스턴스는 온디맨드 인스턴스 요금과 비교하여 상당한 할인 혜택(최대 75%)을 제공합니다.
+ 
 ## AWS 클라우드에서 인프라 호스팅의 이점
 
    * [사전 약정이 없습니다.](https://aws.amazon.com/ko/about-aws/)
@@ -130,3 +136,8 @@ Which EC2 instance pricing model should the company select?
 Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
 
 -> **Amazon EC2** & **Amazon Relational Database Service (Amazon RDS)**
+
+### NO.266 
+Which Amazon EC2 instance pricing model can provide discounts of up to 90%?
+
+-> Spot Instances
