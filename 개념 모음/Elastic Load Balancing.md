@@ -31,3 +31,10 @@ Network Load Balancer는 개방형 시스템 간 상호 연결(OSI) 모델의 �
 
 로드 밸런서는 수신 애플리케이션 트래픽을 여러 가용 영역의 여러 EC2 인스턴스에 분산합니다.
 
+## 관련 문제
+
+### NO.299 
+Which statement best describes Elastic Load Balancing?
+
+-> It distributes incoming application traffic across one or more Amazon EC2 instances.
+
