@@ -74,3 +74,8 @@ Which service provides a virtually unlimited amount of online highly durable obj
 Which encryption types can be used to protect objects at rest amazon S3?
 
 -> **Server side encryption with S3 managed encryption keys (SSE-S3)** & **Server side encryption with AWS KMS managed encryption keys (SSE KMS)**
+
+### NO.264 
+A company is looking for a way to encrypt data stored on Amazon S3. Which AWS managed service can be used to help to accomplish this?
+
+-> AWS Key Management Service (AWS KMS)
