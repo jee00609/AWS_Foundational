@@ -32,6 +32,11 @@ AZ는 **고가용성을 위한 애플리케이션 분할을 용이**하게 합�
 
 AZ는 다른 모든 AZ와 수 킬로미터에 상당하는 **유의미한 거리를 두고 물리적으로 분리**되어 있습니다.
 
+## 연속성 향상
+AZ를 사용하여 같은 리전 내의 여러 데이터 센터에 애플리케이션과 데이터를 복제하는 것과 더불어, **AWS 리전 간에 데이터를 복제함으로써 중복성과 내결함성도 향상할 수 있습니다. **
+
+프라이빗 고속 네트워킹 및 퍼블릭 인터넷 연결 모두를 사용하여 비즈니스 연속성에 계층을 추가하거나 전 세계적으로 지연 시간이 짧은 액세스를 제공할 수 있습니다.
+
 ## 관련 문제
 
 ### NO.242 
@@ -43,3 +48,7 @@ Which AWS feature should a customer leverage to achieve high availability of an 
 Which statement is true about AWS global infrastructure?
 
 -> AWS Regions consist of multiple Availability Zones.
+
+## NO.294 
+A cloud practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas. <br/>
+Which of the following meets these requirements?
