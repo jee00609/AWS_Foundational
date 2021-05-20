@@ -111,3 +111,8 @@ Under the shared responsibility model, which of the following is a shared contro
 Which tasks are the customer's responsibility in the AWS shared
 
 -> **Configuration management of user's applications** & **Security groups configuration**
+
+### NO.273 
+According to the AWS shared responsibility model, which of the following tasks are AWS responsibilities? (Select TWO.)
+
+-> **The physical security of AWS facilities.** & **Patching and updating the hypervisor.**
