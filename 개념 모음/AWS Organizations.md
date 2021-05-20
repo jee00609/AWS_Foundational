@@ -4,6 +4,8 @@ AWS Organizations 는 여러 AWS 계정을 사용자가 생성하고 중앙에�
 
 AWS Organizations 기능에는 비즈니스의 예산,보안 및 규정 준수 요구 사항을 더 잘 충족할 수 있는 **계정 관리 및 통합 결제 기능** 이 있습니다.
 
+AWS Organizations는 AWS 리소스가 늘어나고 확장됨에 따라 **환경을 중앙 집중식으로 관리하고 규제하는 데 도움**이 됩니다.
+
 ## AWS Organizations의 통합 결제
 
 AWS Organizations의 통합 결제 기능을 사용하여 여러 AWS 계정 또는 여러 Amazon Internet Services Pvt. Ltd(AISPL) 계정의 결제를 통합할 수 있습니다.
@@ -86,3 +88,6 @@ A customer is using multiple AWS accounts with separate billing. <br/>
 How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
 
 -> Use the consolidated billing feature from AWS Organizations.
+
+### NO.272 
+What AWS service would be used to centrally manage AWS access across multiple accounts?
