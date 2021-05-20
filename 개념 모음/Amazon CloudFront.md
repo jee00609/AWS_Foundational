@@ -31,3 +31,6 @@ Which AWS service securely delivers data, videos , applications, and APIS to use
 A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Select TWO)
 
 -> **AWS Global Accelerator** & **Amazon CloudFront**
+
+### NO.258 
+Which AWS service would a customer use with a static website to achieve tower latency and high transfer speeds?
