@@ -62,6 +62,15 @@ IAM 정책을 생성 할 때 최소한의 권한으로 시작한 다음 필요�
    * 보안 강화를 위해 정책 조건 사용
    * AWS 계정의 활동 모니터링
 
+## IAM FAQ
+
+### Q: IAM 역할은 무엇입니까?
+
+IAM 역할은 AWS 서비스를 요청하기 위한 권한 세트를 정의하는 IAM 엔터티입니다.
+
+IAM 역할은 특정 사용자나 그룹에 연결되어 있지 않습니다. 
+
+대신 IAM 사용자, 애플리케이션 또는 EC2 같은 AWS 서비스처럼 신뢰할 수 있는 엔터티가 역할을 가정합니다.
 
 ## 관련 문제
 
@@ -112,3 +121,8 @@ According to security best practices, how should an Amazon EC2 instance be given
 -> Have the EC2 instance assume a role to obtain the privileges to upload the file.
 
 [connect to my Amazon S3 bucket from my Amazon EC2 instance](https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-access-s3-bucket/)
+
+### NO.268 
+What is an AWS Identity and Access Management (IAM) role?
+
+-> An entity that defines a set of permissions for use with an AWS resource
