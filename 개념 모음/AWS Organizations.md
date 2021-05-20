@@ -80,3 +80,9 @@ Which service allows a company with multiple AWS accounts to combine its usage t
 ### NO.251 
 A company's procurement department wants volume discounts on AWS services for the company, but numerous departments have separate AWS accounts.<br/>
 Which AWS service or tool can the company use to receive volume discounts across multiple AWS accounts?
+
+### NO.270
+A customer is using multiple AWS accounts with separate billing. <br/>
+How can the customer take advantage of volume discounts with minimal impact to the AWS resources?
+
+-> Use the consolidated billing feature from AWS Organizations.
