@@ -20,3 +20,8 @@ What feature of Amazon RDS helps to create globally redundant databases?
 [Snapshots 참고 +](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_ReadRepl.html)
 
 답은 Cross-Region read replicas 가 더 신빈성있다고 본다.
+
+### NO.257 
+Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
+
+-> **Amazon EC2** & [**Amazon Relational Database Service (Amazon RDS)**](https://aws.amazon.com/ko/rds/sqlserver/)
