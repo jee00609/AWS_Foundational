@@ -45,3 +45,8 @@ A company is planning to launch an ecommerce site in a single AWS Region to a wo
 
 ### NO.258 
 Which AWS service would a customer use with a static website to achieve tower latency and high transfer speeds?
+
+### NO.287 
+In which of the following is Amazon CloudFront content cached?
+
+-> Edge locations
