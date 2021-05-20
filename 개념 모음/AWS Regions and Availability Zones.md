@@ -52,3 +52,5 @@ Which statement is true about AWS global infrastructure?
 ## NO.294 
 A cloud practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas. <br/>
 Which of the following meets these requirements?
+
+-> AWS Regions
