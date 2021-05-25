@@ -10,5 +10,8 @@ A2P 기능을 사용하면 SMS, 모바일 푸시 및 이메일을 통해 대규�
 
 ## 관련 문제
 
+### NO.274 
+A company is building distributed, loosely coupled applications. The company needs to publish messages from applications and immediately Which AWS service can the company use to meet these requirements?
+
 ### NO.279 
 Which AWS service uses a combination of publishers and subscribers?
