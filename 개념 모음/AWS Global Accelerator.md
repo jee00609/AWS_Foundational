@@ -6,6 +6,10 @@ AWS Global Accelerator 는 사용자가 액셀러레이터 로컬 및 글로벌 
 
 AWS Global Accelerator는 로컬 및 글로벌 사용자의 애플리케이션 성능을 개선하기 위해 액셀러레이터 를 생성하는 서비스입니다. 
 
+## [AWS Global Accelerator 기능](https://aws.amazon.com/ko/global-accelerator/features/)
+
+[지속적인 가용성 모니터링](https://aws.amazon.com/ko/global-accelerator/features/)
+
 선택한 액셀러레이터 유형에 따라 추가 혜택을받을 수 있습니다.
 
    * 표준 가속기를 사용하면 전 세계 사용자가 사용하는 인터넷 응용 프로그램의 가용성을 향상시킬 수 있습니다.<br/> 표준 가속기를 사용하는 Global Accelerator는 AWS 글로벌 네트워크를 통해 클라이언트에 가장 가까운 리전의 엔드 포인트로 트래픽을 보냅니다.
