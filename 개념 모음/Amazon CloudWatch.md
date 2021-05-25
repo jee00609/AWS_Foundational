@@ -24,6 +24,12 @@ AWS 계정 루트 사용자 AWS Management Console 로그인 이벤트에 대한
       * 특정 서비스 또는 응용 프로그램의 모든 이벤트를 기록합니다.
       * What is happening on AWS?
 
+CloudTrail은 사용장 활동 및 API 사용추적->API 사용추적을 통해 보안 분석 및 문제 해결을
+
+VPC 흐름 로그 -> IP 트래픽에 대한 정보를 수집할 수 있는 기능이다.
+
+Amazon CloudWatch ->애플리케이션 모니터링 사용량 지표,이벤트 운영 데이터 수집을 목표로함.
+
 ## [Amazon CloudWatch FAQ](https://aws.amazon.com/cloudwatch/faqs/)
 
 ### 어떤 유형의 CloudWatch 경보를 생성 할 수 있습니까?
