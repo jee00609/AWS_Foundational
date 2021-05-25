@@ -47,7 +47,7 @@ Which AWS feature should a customer leverage to achieve high availability of an 
 ### NO.260 ()
 When a company provisions web servers in multiple AWS Regions, what is being increased?
 
--> Durability(내구성) OR  Availability(가용성)
+-> **Durability(내구성)** OR  Availability(가용성) <br/> 내구성이 더 
 
 -> 내구성은 데이터가 유실되지 않는 것을 뜻하며 가용성은 언제나 정상적으로 사용 가능한 상태를 
 
