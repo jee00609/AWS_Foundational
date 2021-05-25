@@ -38,7 +38,7 @@ Amazon Elastic Compute Cloud(Amazon EC2)는 크기를 조정할 수 있는 컴�
       * **시작 및 종료 시간이 자유로운** 애플리케이션
       * 컴퓨팅 가격이 매우 저렴해야만 수익이 나는 애플리케이션
       * 대량의 서버 용량 추가로 긴급히 컴퓨팅 파워가 필요한 사용자
-   * **예약 인스턴스** (Saving Plans)
+   * **예약 인스턴스** (+Saving Plans)
       * Savings Plans를 이용해 시간당 USD로 측정되는 **일관된 사용량을 약정**할 수 있습니다.
       * 수요가 꾸준한 애플리케이션
       * 예약 용량이 필요할 수 있는 애플리케이션
@@ -131,6 +131,12 @@ A company uses Amazon EC2 infrastructure to host steady-state workloads and need
 Which EC2 instance pricing model should the company select?
 
 -> Reserved Instances
+
+### NO.255 
+A company is planning to launch a new steady-state workload on AWS that must be accessible 24 hours a day, 7 days a week. <br/>
+What is the MOST cost-effective Amazon EC2 pricing option?
+
+-> On-Demand Instances
 
 ### NO.257 
 Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
