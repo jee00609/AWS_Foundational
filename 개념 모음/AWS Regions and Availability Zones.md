@@ -44,6 +44,11 @@ Which AWS feature should a customer leverage to achieve high availability of an 
 
 -> Availability Zones
 
+### NO.260 
+When a company provisions web servers in multiple AWS Regions, what is being increased?
+
+-> Durability
+
 #### NO.261 
 Which statement is true about AWS global infrastructure?
 
