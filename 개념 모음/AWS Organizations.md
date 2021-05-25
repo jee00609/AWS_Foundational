@@ -91,3 +91,8 @@ How can the customer take advantage of volume discounts with minimal impact to t
 
 ### NO.272 
 What AWS service would be used to centrally manage AWS access across multiple accounts?
+
+### NO.281 
+How can consolidated billing within AWS Organizations help lower overall monthly expenses?
+
+->  By pooling usage across multiple accounts to achieve a pricing tier discount
