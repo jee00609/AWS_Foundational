@@ -13,7 +13,7 @@
 
 기본 지원은 모든 AWS 고객에게 제공되며, 다음을 포함합니다.
 
-   * **고객 서비스 및 커뮤니티** 
+   * **고객 서비스 및 커뮤니티 (Customer Service and Communities)** 
       * – 고객 서비스, 설명서, 백서 및 지원 포럼에 대한 연중무휴 24시간 상시 액세스를 제공합니다
    * **AWS Trusted Advisor** 
       * – 7개의 핵심 Trusted Advisor 점검 사항 및 지침에 액세스하여 모범 사례에 따라 리소스를 프로비저닝함으로써 성능을 높이고 보안을 강화합니다.
@@ -57,3 +57,8 @@ A company needs 24/7 phone email and chat access with a response time of less th
 How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?
 
 -> AWS Trusted Advisor
+
+## NO.289 
+What AWS billing support resource is available to all support levels?
+
+-> [AWS Customer Service](https://aws.amazon.com/premiumsupport/plans/?nc1=h_ls)
