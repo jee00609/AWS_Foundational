@@ -56,6 +56,11 @@ Which statement is true about AWS global infrastructure?
 
 -> AWS Regions consist of multiple Availability Zones.
 
+### NO.271 
+What are the advantages of deploying an application with Amazon EC2 instances in multiple Availability Zones? (Select TWO.)
+
+-> **Preventing a single point of failure** & **Increasing the availability of the application**
+
 ## NO.294 
 A cloud practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas. <br/>
 Which of the following meets these requirements?
