@@ -8,6 +8,8 @@ Amazon Relational Database Service(Amazon RDS)를 사용하여 DB 인스턴스�
 
 **MariaDB, MySQL, Microsoft SQL Server, Oracle 또는 PostgreSQL을 사용하는 DB 인스턴스를 생성**합니다.
 
+[Amazon RDS는 DB 인스턴스 백업 기간 동안 DB 인스턴스의 자동 백업을 생성하고 저장합니다.](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html)
+
 ## 관련 문제
 
 ### NO.213 
