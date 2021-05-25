@@ -28,6 +28,11 @@ Which AWS services can host a Microsoft SQL Server database? (Select TWO.)
 
 -> **Amazon EC2** & [**Amazon Relational Database Service (Amazon RDS)**](https://aws.amazon.com/ko/rds/sqlserver/)
 
+### NO.263 
+Which of the following are benefits of running a database on Amazon RDS compared to an on-premises database? (Select TWO)
+
+-> [**RDS backups are managed by AWS**](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_WorkingWithAutomatedBackups.html) & **RDS database compute capacity can be easily scaled.**
+
 ### NO.296 
 A user needs a relational database but does not have the resources to manage the hardware, resiliency, and replication. <br/>
 Which AWS service option meets the user's requirements?
