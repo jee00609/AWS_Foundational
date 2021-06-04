@@ -42,7 +42,7 @@ Amazon CloudWatch ->애플리케이션 모니터링 사용량 지표,이벤트 �
    * Amazon ELB 요청 지연 시간
    * Amazon DynamoDB 테이블 처리량
    * Amazon SQS 대기열 길이
-   * AWS 청구서에 대한 요rma
+   * AWS 청구서에 대한 요금
 
 에 대한 경보를 생성 할 수 있습니다.
 
